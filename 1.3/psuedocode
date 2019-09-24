@@ -1,0 +1,5 @@
+write a function that takes a string as input and replaces spaces with '%20'
+
+1. iterate over string, copying each char to new vector until ' ' is encountered
+2. do not copy that character, copy '%20'
+3. return new vector
